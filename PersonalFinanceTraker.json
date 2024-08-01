@@ -1,0 +1,9 @@
+{
+  "food": [
+    {
+      "amount": 100.0,
+      "transaction_type": "income",
+      "date": "2020-12-12"
+    }
+  ]
+}
